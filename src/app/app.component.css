@@ -1,0 +1,6 @@
+div.mainDiv {
+    background-image: url('/assets/bg.png');
+    min-height: 1200px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
